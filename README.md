@@ -1,2 +1,3 @@
 # hello-world
-penguins are fantastic
+penguins are fantastic!
+So is food!
